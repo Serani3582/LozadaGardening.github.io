@@ -1,0 +1,64 @@
+a:link {
+	color:#00ff00;	
+}
+
+a:visited {
+	color:#ffff00;
+}
+
+body {
+	font-family: "Times New Roman", "Times", serif;
+	color: #ffffff;
+	background-color:#003333;
+	padding-left: 15px;
+	text-align: center;
+	font-size: 2.0em;
+}
+
+h1 {
+	font-size: 3.0em;
+	font-style: italic;
+	text-align: center;
+	text-shadow: 3px 3px #000000;
+}
+
+h2 {
+	font-size: 2.5em;
+	text-shadow: 2px 2px #000000;
+	text-align: center;
+}
+
+table {
+	margin-left: inherit;
+	margin-right: inherit;
+	border-collapse: collapse;
+	
+}
+#t01{
+	background-color:#000000;
+	border: hidden;	
+}
+#td01{
+	border: hidden;
+}
+#tr01{
+	border: hidden;
+	
+}
+td {
+    padding: 5px;
+    border: solid;
+    border-color: #ffffff;
+    
+}
+tr {
+	border: 3px solid #ffffff;
+	text-align: center;
+	background-color:#003333; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #006666;
+}
